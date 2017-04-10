@@ -4,3 +4,6 @@ no kidding I posted a question on IBM IDA forum for 3 weeks no one responded! SA
 
 PrintFieldCategroy.java , this file printed out all the field in a logical model .
 ColorField.java , this code highlighted the required field .
+
+update:2017/04/10
+I created a GUI interface for this will update soon
