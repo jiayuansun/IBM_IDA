@@ -23,8 +23,8 @@ public class GenTestingSQL {
 		/*
 		Map<String, ArrayList<String>> peopleByForename = new HashMap<String, ArrayList<String>>();    
 		ArrayList<String> test=new ArrayList<String>();
-		test.add("asshole");
-		test.add("bitch");
+		test.add("a");
+		test.add("b");
 		peopleByForename.put("Be", test);
 		ArrayList<String> bob=(ArrayList<String>) peopleByForename.get("Be");
 		System.out.print("\n");
